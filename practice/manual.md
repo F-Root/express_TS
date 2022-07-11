@@ -29,4 +29,3 @@
 3. https://kyu9341.github.io/Git/2020/08/23/git_gitignore/
 4. https://nochoco-lee.tistory.com/46
 5. https://dololak.tistory.com/306
-
