@@ -23,6 +23,9 @@
 
 ### gitignore setting
 
+- auto setting
+* https://www.toptal.com/developers/gitignore
+
 - grammar setting
 1. https://git-scm.com/docs/gitignore
 2. https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-gitignore-%EC%9E%90%EB%8F%99-%EC%83%9D%EC%84%B1
