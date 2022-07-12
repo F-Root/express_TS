@@ -9,3 +9,11 @@ function sayHelloTo(target: string) {
 sayHelloTo("Me");
 
 console.log('hello world');
+
+function addFunction(num1: number, num2: number): number {
+  return num1 + num2;
+}
+
+let sum = addFunction(5,5);
+
+console.log(sum);
